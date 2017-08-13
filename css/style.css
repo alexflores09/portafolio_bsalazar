@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Raleway;
+    src: url(../fonts/Raleway-Regular.ttf);
+}
+html {
+    font-family: Raleway, Calibri, Trebuchet, sans-serif;
+}
+body{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+header{
+    background-image: url(../img/header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main {
+    flex: 1 0 auto;
+}
+.valign-wrapper img{
+    width: 70px;
+}
+.section{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.tools-buttons{
+    width: 70%;
+}
+.div-apps{
+    background-color: gray;
+}
