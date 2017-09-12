@@ -12,13 +12,25 @@ body{
 }
 
 header{
-    background-image: url(../img/header.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: url(../img/header.png) center bottom no-repeat fixed;
+    min-height: 500px;
 }
 
 main {
     flex: 1 0 auto;
+}
+.title-black{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 42px;
+    line-height: 1.5;
+}
+.subtitle-black{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
 }
 .valign-wrapper img{
     width: 70px;
@@ -32,5 +44,23 @@ main {
     width: 70%;
 }
 .div-apps{
-    background-color: gray;
+    background-color: #f4f4f4;
+}
+.space{
+    margin: 50px 0;
+}
+
+.tabs{
+    background-color: #f4f4f4;
+}
+.tabs .tab a,
+.tabs .tab a:hover, .tabs .tab a.active {
+    color: black;
+}
+.tabs .indicator{
+    background-color: black;
+}
+.redes-info{
+    font-size: 20px;
+    padding-left: 10px;
 }

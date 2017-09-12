@@ -27,4 +27,9 @@ $(document).ready(()=>{
             }
         ]
     });
+
+    $("#frmContact").on("submit",(e)=>{
+        e.preventDefault();
+        alert("aqui tengo que hacer el ajax a contacto")
+    });
 });
