@@ -12,7 +12,10 @@ body{
 }
 
 header{
-    background: url(../img/header.png) center bottom no-repeat fixed;
+    background: url(../img/header.png);
+    background-attachment: local;
+    background-position: center center;
+    background-size: cover;
     min-height: 500px;
 }
 
@@ -63,4 +66,7 @@ main {
 .redes-info{
     font-size: 20px;
     padding-left: 10px;
+}
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating){
+    text-transform: none;
 }

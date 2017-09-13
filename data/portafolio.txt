@@ -1,0 +1,274 @@
+{
+  "apps": [
+    {
+        "img":"img/app/1.jpg",
+        "name":"Tigo Pos",
+        "desc":"Transacciones móviles",
+        "link":"https://pos.tigo.com.gt/"
+    },
+    {
+        "img":"img/app/fruit.jpg",
+        "name":"Fruit",
+        "desc":"App de compras y consultas",
+        "link":""
+    },
+    {
+        "img":"img/app/k.jpg",
+        "name":"Wint",
+        "desc":"Consultas de ofertas y acumulaión de puntos por compras",
+        "link":""
+    },
+    {
+        "img":"img/app/w.jpg",
+        "name":"Génesis empresarial",
+        "desc":"Prestamos y compras móviles",
+        "link":""
+    },
+    {
+        "img":"img/app/z.jpg",
+        "name":"Visa Net",
+        "desc":"Aplicación de pedidos y entregas delivery ",
+        "link":""
+    }
+  ],
+  "revistas":[
+    {
+        "img":"img/revistas/Bifoliar.jpg",
+        "name":"Fundación Paso dos",
+        "desc":"Bifoliar informativo",
+        "link":""
+    },
+    {
+        "img":"img/revistas/bling.jpg",
+        "name":"Joyería Bling",
+        "desc":"Publicidad para recolectar joyas",
+        "link":"https://es-la.facebook.com/BlingGuatemala/"
+    },
+    {
+        "img":"img/revistas/f.jpg",
+        "name":"Revista Club Rotary sur",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/revistas/flyer.jpg",
+        "name":"amcham guatemala",
+        "desc":"Flyer de eventos",
+        "link":""
+    },
+    {
+        "img":"img/revistas/flyer_02.jpg",
+        "name":"amcham guatemala",
+        "desc":"Flyer de eventos",
+        "link":""
+    },
+    {
+        "img":"img/revistas/gerber.jpg",
+        "name":"Gerber Life",
+        "desc":"Flyer para seguros",
+        "link":""
+    },
+    {
+        "img":"img/revistas/rotary.jpg",
+        "name":"Club Rotary sur",
+        "desc":"Bifoliar informativo",
+        "link":""
+    },
+    {
+        "img":"img/revistas/s.jpg",
+        "name":"Laboratiorios Merck S.A.",
+        "desc":"Revista ediciones  2016 / 2017",
+        "link":""
+    }
+  ],
+  "vectores":[
+    {
+        "img":"img/vectores/bellas_artes.jpg",
+        "name":"Bella´s Art",
+        "desc":"Fanpage / Plantillas de publicación / Retoque de fotografías",
+        "link":"https://www.facebook.com/BellasArtGuatemala/"
+    },
+    {
+        "img":"img/vectores/ccody.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/vectores/cocody.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/vectores/fruit.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/vectores/g.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/vectores/h.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/vectores/iberoamerica.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/vectores/isas.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/vectores/l.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/vectores/olkas.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/vectores/superwoman.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    }
+  ],
+  "website":[
+    {
+        "img":"img/website/2.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/a.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/b.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/c.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/d.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/f.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/g.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/i.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/j.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/m.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/n.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/o.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/p.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/q.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/r.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/t.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/u.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/v.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/x.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/y.jpg",
+        "name":"",
+        "desc":"",
+        "link":""
+    }
+  ]
+}

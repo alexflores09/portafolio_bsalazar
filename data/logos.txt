@@ -1,0 +1,26 @@
+{
+  "logos": [
+    "img/logos/a.jpg",
+    "img/logos/b.jpg",
+    "img/logos/c.jpg",
+    "img/logos/d.jpg",
+    "img/logos/f.jpg",
+    "img/logos/g.jpg",
+    "img/logos/h.jpg",
+    "img/logos/i.jpg",
+    "img/logos/j.jpg",
+    "img/logos/k.jpg",
+    "img/logos/l.jpg",
+    "img/logos/m.jpg",
+    "img/logos/n.jpg",
+    "img/logos/o.jpg",
+    "img/logos/p.jpg",
+    "img/logos/q.jpg",
+    "img/logos/r.jpg",
+    "img/logos/s.jpg",
+    "img/logos/t.jpg",
+    "img/logos/u.jpg",
+    "img/logos/v.jpg",
+    "img/logos/w.jpg"
+  ]
+}
