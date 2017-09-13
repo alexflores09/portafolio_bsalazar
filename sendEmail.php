@@ -15,9 +15,9 @@ $strMensaje = !empty($_REQUEST["message"])?$_REQUEST["message"]:"";
 
 $headers = "MIME-Version: 1.0";
 $headers .= "\r\n"."Content-type:text/html;charset=UTF-8";
-$headers .= "\r\n"."From: portafoliobsalazar@gmail.com";
-if(!empty($strCorreo))$headers .= "\r\n"."Cc: {$strCorreo}";
-$headers .= "\r\n"."Bcc: bitcoude@gmail.com";
+$headers .= "\r\n"."From: noreplay@bsalazar.com.gt";
+/*if(!empty($strCorreo))$headers .= "\r\n"."Cc: {$strCorreo}";
+$headers .= "\r\n"."Bcc: bitcoude@gmail.com";*/
 
 
 $message = "";
