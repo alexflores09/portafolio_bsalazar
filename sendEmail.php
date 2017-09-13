@@ -24,9 +24,9 @@ $message = "";
 $message .= <<<EOD
         <p>
             <i>
-            “Gracias por su correo electrónico.<br> 
+            Gracias por su correo electrónico.<br> 
             En breve estaré contestando su correo.<br>
-            Para obtener asistencia inmediata, por favor póngase en contacto conmigo a mi teléfono celular”.
+            Para obtener asistencia inmediata, por favor póngase en contacto conmigo a mi teléfono celular.
             </i>
         </p>
 
