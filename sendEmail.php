@@ -16,7 +16,6 @@ $headers = "MIME-Version: 1.0";
 $headers .= "\r\n"."Content-type:text/html;charset=UTF-8";
 $headers .= "\r\n"."From: portafoliobsalazar@gmail.com";
 if(!empty($strCorreo))$headers .= "\r\n"."Cc: {$strCorreo}";
-$headers .= "\r\n"."Bcc: portafoliobsalazar@gmail.com";
 
 $message = "";
 $message .= <<<EOD
@@ -48,7 +47,7 @@ $message .= <<<EOD
         </table>
 EOD;
 
-if(@mail("bitcoude@gmail.com",$strAsunto,$message,$headers)){
+if(@mail("portafoliobsalazar@gmail.com",$strAsunto,$message,$headers)){
     $data["valido"] = 1;
     $data["msj"] = "Correo enviado correctamente";
 }
