@@ -82,6 +82,7 @@ function getPortafolio(){
     const contImpresion = $("#impresion");
     const contVectores = $("#vectores");
     const contWebsite = $("#websites");
+    const contFreelance = $("#freelance");
     $.ajax({
         type: "GET",
         url : "data/portafolio.txt",
@@ -107,6 +108,10 @@ function getPortafolio(){
             $.each(data.website,(key,val)=>{
                 let card = $(getCard(val.img,val.name,val.desc,val.link));
                 contWebsite.append(card);
+            });
+            $.each(data.freelance,(key,val)=>{
+                let card = $(getCard(val.img,val.name,val.desc,val.link));
+                contFreelance.append(card);
             });
             $('.materialboxed').materialbox();
         }
