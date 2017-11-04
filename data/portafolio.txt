@@ -270,5 +270,67 @@
         "desc":"",
         "link":""
     }
-  ]
+  ],
+  "freelance":[
+      {
+          "img":"img/Free/bellas_artes.jpg",
+          "name":"Bella´s Art",
+          "desc":"Fanpage / Plantillas de publicación / Retoque de fotografías",
+          "link":"https://www.facebook.com/BellasArtGuatemala/"
+      },
+      {
+          "img":"img/Free/cocody.jpg",
+          "name":"",
+          "desc":"",
+          "link":""
+      },
+      {
+          "img":"img/Free/fruit.jpg",
+          "name":"",
+          "desc":"",
+          "link":""
+      },
+      {
+          "img":"img/Free/gerber.jpg",
+          "name":"Flyer",
+          "desc":"Concurso eyeka",
+          "link":""
+      },
+      {
+          "img":"img/Free/iberoamerica.jpg",
+          "name":"Logo Iberoamerica",
+          "desc":"Concurso 2014",
+          "link":""
+      },
+      {
+          "img":"img/Free/isas.jpg",
+          "name":"Isa´s Closet ",
+          "desc":"Fanpage",
+          "link":"https://www.facebook.com/IsasClosetGuatemala/"
+      },
+      {
+          "img":"img/Free/mangiamo.jpg",
+          "name":"",
+          "desc":"",
+          "link":""
+      },
+      {
+          "img":"img/Free/olkas.jpg",
+          "name":"Olkas´",
+          "desc":"Branding",
+          "link":""
+      },
+      {
+          "img":"img/Free/superwoman.jpg",
+          "name":"Dibujo Super woman",
+          "desc":"",
+          "link":""
+      },
+      {
+          "img":"img/Free/Arfri.jpg",
+          "name":"Logo Arfri",
+          "desc":"Artesanías realizadas con fibras recicladas e inocuas",
+          "link":""
+      }
+    ]
 }
