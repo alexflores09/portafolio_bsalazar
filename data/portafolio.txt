@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-        "img":"img/app/1.jpg",
+        "img":"img/app/TigoPos.jpg",
         "name":"Tigo Pos",
         "desc":"Transacciones móviles",
         "link":"https://pos.tigo.com.gt/"
@@ -13,19 +13,19 @@
         "link":""
     },
     {
-        "img":"img/app/k.jpg",
+        "img":"img/app/Wint.jpg",
         "name":"Wint",
         "desc":"Consultas de ofertas y acumulaión de puntos por compras",
         "link":""
     },
     {
-        "img":"img/app/w.jpg",
+        "img":"img/app/genesis.jpg",
         "name":"Génesis empresarial",
         "desc":"Prestamos y compras móviles",
         "link":""
     },
     {
-        "img":"img/app/z.jpg",
+        "img":"img/app/Visanet.jpg",
         "name":"Visa Net",
         "desc":"Aplicación de pedidos y entregas delivery ",
         "link":""
@@ -41,11 +41,11 @@
     {
         "img":"img/revistas/bling.jpg",
         "name":"Joyería Bling",
-        "desc":"Publicidad para recolectar joyas",
+        "desc":"Publicidad",
         "link":"https://es-la.facebook.com/BlingGuatemala/"
     },
     {
-        "img":"img/revistas/f.jpg",
+        "img":"img/revistas/Revista_Rotary.jpg",
         "name":"Revista Club Rotary sur",
         "desc":"",
         "link":""
@@ -75,9 +75,9 @@
         "link":""
     },
     {
-        "img":"img/revistas/s.jpg",
+        "img":"img/revistas/Merck.jpg",
         "name":"Laboratiorios Merck S.A.",
-        "desc":"Revista ediciones  2016 / 2017",
+        "desc":"Revista edición  2016 / 2017",
         "link":""
     }
   ],
@@ -87,12 +87,6 @@
         "name":"Bella´s Art",
         "desc":"Fanpage / Plantillas de publicación / Retoque de fotografías",
         "link":"https://www.facebook.com/BellasArtGuatemala/"
-    },
-    {
-        "img":"img/vectores/ccody.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
     },
     {
         "img":"img/vectores/cocody.jpg",
@@ -107,167 +101,237 @@
         "link":""
     },
     {
-        "img":"img/vectores/g.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
+        "img":"img/vectores/Gambitojobs.jpg",
+        "name":"Gambito Jobs",
+        "desc":"Reclutadora / Salvador & Guatemala",
+        "link":"http://ciudadgambito.com/"
     },
     {
-        "img":"img/vectores/h.jpg",
-        "name":"",
-        "desc":"",
+        "img":"img/vectores/gerber.jpg",
+        "name":"Flyer",
+        "desc":"Concurso eyeka",
         "link":""
     },
     {
         "img":"img/vectores/iberoamerica.jpg",
-        "name":"",
-        "desc":"",
+        "name":"Logo Iberoamerica",
+        "desc":"Concurso 2014",
         "link":""
     },
     {
         "img":"img/vectores/isas.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
+        "name":"Isa´s Closet ",
+        "desc":"Fanpage",
+        "link":"https://www.facebook.com/IsasClosetGuatemala/"
     },
     {
-        "img":"img/vectores/l.jpg",
+        "img":"img/vectores/mangiamo.jpg",
         "name":"",
         "desc":"",
         "link":""
     },
     {
         "img":"img/vectores/olkas.jpg",
-        "name":"",
-        "desc":"",
+        "name":"Olkas´",
+        "desc":"Branding",
         "link":""
     },
     {
         "img":"img/vectores/superwoman.jpg",
-        "name":"",
+        "name":"Dibujo Super woman",
         "desc":"",
         "link":""
+    },
+    { 
+        "img":"img/vectores/Arfri.jpg",
+        "name":"Logo Arfri",
+        "desc":"Artesanías realizadas con fibras recicladas e inocuas",
+        "link":""
     }
+
+
   ],
   "website":[
     {
-        "img":"img/website/2.jpg",
+        "img":"img/website/Agexport.jpg",
+        "name":"Agexport",
+        "desc":"Website Agexport",
+        "link":""
+    },
+    {
+        "img":"img/website/Beautyesthetic.jpg",
+        "name":"Spa & salon Beauty Esthetic",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/Capistrano.jpg",
+        "name":"Capistrano",
+        "desc":"Website / Reservaciones",
+        "link":""
+    },
+    {
+        "img":"img/website/Disagro.jpg",
+        "name":"Website Disagro",
+        "desc":"Diseño de website / mantenimiento / proceso de cultivos",
+        "link":""
+    },
+    {
+        "img":"img/website/Ecotermo.jpg",
+        "name":"Ecotermo",
+        "desc":"Website",
+        "link":""
+    },
+    {
+        "img":"img/website/Erick_quiroa.jpg",
+        "name":"Fundación Erick Quiroa",
+        "desc":"Website/ donaciones/albergue",
+        "link":"http://www.fundacionerickquiroa.org//fp/index/"
+    },
+    {
+        "img":"img/website/Fundación_aldo_castañeda.jpg",
+        "name":"Fundación Aldo Castañeda",
+        "desc":"Website/donaciones",
+        "link":"http://www.fundacionaldocastaneda.org/"
+    },
+    {
+        "img":"img/Fundación_Olimpica.jpg",
+        "name":"Fundación Olimpica",
+        "desc":"Website",
+        "link":""
+    },
+    {
+        "img":"img/website/Fundación_Ronald.jpg",
+        "name":"Fundación Ronald Maconald",
+        "desc":"Diseño de website",
+        "link":""
+    },
+    {
+        "img":"img/website/Fundaemi.jpg",
+        "name":"Fundaemi",
+        "desc":"Website/ donaciones/albergue",
+        "link":""
+    },
+    {
+        "img":"img/website/Gambito.jpg",
+        "name":"Gambito Jobs",
+        "desc":"Reclutadora Salvador / Guatemala",
+        "link":"https://ciudadgambito.com"
+    },
+    {
+        "img":"img/website/Integrum.jpg",
+        "name":"Intergrum",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/Isawear.jpg",
+        "name":"Isa Wear",
+        "desc":"Venta de ropa online/ cultura guatemalteca/cotizaciones",
+        "link":""
+    },
+    {
+        "img":"img/website/Loenmarco.jpg",
+        "name":"Lo enmarco",
+        "desc":"Website",
+        "link":"https://www.loenmarco.com/index.php?"
+    },
+    {
+        "img":"img/website/Melaniestemmler.jpg",
+        "name":"Melanie Stemmler",
+        "desc":"Biografía",
+        "link":""
+    },
+    {
+        "img":"img/website/Ropes.jpg",
+        "name":"Fundación Ropes",
+        "desc":"",
+        "link":""
+    },
+    {
+        "img":"img/website/Sarita.jpg",
+        "name":"Sarita",
+        "desc":"Website",
+        "link":"https://heladosarita.com/"
+    },
+    {
+        "img":"img/website/Tribu.jpg",
+        "name":"Tribu",
+        "desc":"Website Venta de muebles",
+        "link":""
+    },
+    {
+        "img":"img/website/Universalfood.jpg",
+        "name":"Universal Foods",
+        "desc":"Productos",
+        "link":"http://www.universalfoods.solutions/"
+    },
+    {
+        "img":"img/website/Valle_verde.jpg",
+        "name":"Colegio Valle Verde",
+        "desc":"Website",
+        "link":"http://valleverde.edu.gt/"
+    }
+  ],
+  "freelance":[
+    {
+        "img":"img/Free/bellas_artes.jpg",
+        "name":"Bella´s Art",
+        "desc":"Fanpage / Plantillas de publicación / Retoque de fotografías",
+        "link":"https://www.facebook.com/BellasArtGuatemala/"
+    },
+    {
+        "img":"img/Free/cocody.jpg",
         "name":"",
         "desc":"",
         "link":""
     },
     {
-        "img":"img/website/a.jpg",
+        "img":"img/Free/fruit.jpg",
         "name":"",
         "desc":"",
         "link":""
     },
     {
-        "img":"img/website/b.jpg",
+        "img":"img/Free/gerber.jpg",
+        "name":"Flyer",
+        "desc":"Concurso eyeka",
+        "link":""
+    },
+    {
+        "img":"img/Free/iberoamerica.jpg",
+        "name":"Logo Iberoamerica",
+        "desc":"Concurso 2014",
+        "link":""
+    },
+    {
+        "img":"img/Free/isas.jpg",
+        "name":"Isa´s Closet ",
+        "desc":"Fanpage",
+        "link":"https://www.facebook.com/IsasClosetGuatemala/"
+    },
+    {
+        "img":"img/Free/mangiamo.jpg",
         "name":"",
         "desc":"",
         "link":""
     },
     {
-        "img":"img/website/c.jpg",
-        "name":"",
-        "desc":"",
+        "img":"img/Free/olkas.jpg",
+        "name":"Olkas´",
+        "desc":"Branding",
         "link":""
     },
     {
-        "img":"img/website/d.jpg",
-        "name":"",
+        "img":"img/Free/superwoman.jpg",
+        "name":"Dibujo Super woman",
         "desc":"",
         "link":""
     },
-    {
-        "img":"img/website/f.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
-    },
-    {
-        "img":"img/website/g.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
-    },
-    {
-        "img":"img/website/i.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
-    },
-    {
-        "img":"img/website/j.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
-    },
-    {
-        "img":"img/website/m.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
-    },
-    {
-        "img":"img/website/n.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
-    },
-    {
-        "img":"img/website/o.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
-    },
-    {
-        "img":"img/website/p.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
-    },
-    {
-        "img":"img/website/q.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
-    },
-    {
-        "img":"img/website/r.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
-    },
-    {
-        "img":"img/website/t.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
-    },
-    {
-        "img":"img/website/u.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
-    },
-    {
-        "img":"img/website/v.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
-    },
-    {
-        "img":"img/website/x.jpg",
-        "name":"",
-        "desc":"",
-        "link":""
-    },
-    {
-        "img":"img/website/y.jpg",
-        "name":"",
-        "desc":"",
+    { 
+        "img":"img/Free/Arfri.jpg",
+        "name":"Logo Arfri",
+        "desc":"Artesanías realizadas con fibras recicladas e inocuas",
         "link":""
     }
   ]

@@ -12,13 +12,11 @@ $strCorreo = !empty($_REQUEST["email"])?$_REQUEST["email"]:"";
 $strAsunto = !empty($_REQUEST["subject"])?$_REQUEST["subject"]:"Información";
 $strMensaje = !empty($_REQUEST["message"])?$_REQUEST["message"]:"";
 
-
 $headers = "MIME-Version: 1.0";
 $headers .= "\r\n"."Content-type:text/html;charset=UTF-8";
-$headers .= "\r\n"."From: noreplay@bsalazar.com.gt";
-/*if(!empty($strCorreo))$headers .= "\r\n"."Cc: {$strCorreo}";
-$headers .= "\r\n"."Bcc: bitcoude@gmail.com";*/
-
+$headers .= "\r\n"."From: portafoliobsalazar@gmail.com";
+if(!empty($strCorreo))$headers .= "\r\n"."Cc: {$strCorreo}";
+$headers .= "\r\n"."Bcc: portafoliobsalazar@gmail.com";
 
 $message = "";
 $message .= <<<EOD
