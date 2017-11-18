@@ -219,7 +219,7 @@
         "link":"https://ciudadgambito.com"
     },
     {
-        "img":"img/website/Integrum.jpg",
+        "img":"img/website/integrum.jpg",
         "name":"Intergrum",
         "desc":"",
         "link":""
